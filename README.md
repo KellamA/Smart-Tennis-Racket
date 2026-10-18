@@ -33,6 +33,12 @@ Seeed XIAO ESP32C3 · MPU6050 (±2000 °/s gyro) · Adafruit H3LIS331DL (±200 g
 3D-printed insert that replaces the handle's foam core. The textured 3D racket in the apps is our own model
 (`hardware/models/tennis-racket-yonex.blend`, exported to `apple/Shared/Resources/TennisRacket.glb`). Pin map and BLE protocol: [docs/PLAN.md](docs/PLAN.md).
 
+## Contributors 
+-Kellam Adams
+-Marwan Warnick
+-Quentin Lynch
+-Steven Robles
+
 ## License
 
 MIT. See [LICENSE.md](LICENSE.md). Original work © 2025 Aahan Prajapati; Tennis Buddy additions © 2026 the Tennis Buddy team.
